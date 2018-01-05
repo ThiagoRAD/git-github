@@ -17,3 +17,10 @@ The ``git add`` command tells Git which changes you want to include in the next 
 ### Git Commit 
 
 To commit the staged files added with the Git Add command we use ``git commit -m 'Your commit message here!'``
+
+### Git Status
+
+The ``git status`` command is used to check the status of your files.
+- Staged files are ready to be commited
+- Unstaged files are not yet ready to be committed.
+- Untracked files are new files that Git has not seen before.
