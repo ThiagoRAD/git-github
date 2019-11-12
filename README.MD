@@ -29,3 +29,13 @@ The ``git status`` command is used to check the status of your files.
 
 - Usually the first time you push to a branch we do the following ``git push -u origin main``
 - Once that's set, any commits you push to this branch will just require ```git push``
+
+### Cloning
+
+``git clone https://github.com/YOUR_USERNAME/EXAMPLE_REPO.git``
+
+### Branching
+
+- Creating a new branch ``git branch new-branch-name``
+- Switching to the branch ``git switch new-branch-name``
+- Create and switch at the same time ``git checkout -b <new-branch-name>``
