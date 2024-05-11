@@ -1,3 +1,8 @@
+## Just some notes from
+- https://www.codedex.io/git-github
+-Overall not really good content for newcomers sadly.
+
+
 ### Check if Git is installed
 
 run ``git --version`` on the terminal, you should see a version number like ```git version z.y.z``
