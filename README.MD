@@ -24,3 +24,8 @@ The ``git status`` command is used to check the status of your files.
 - Staged files are ready to be commited
 - Unstaged files are not yet ready to be committed.
 - Untracked files are new files that Git has not seen before.
+
+### Git Push
+
+- Usually the first time you push to a branch we do the following ``git push -u origin main``
+- Once that's set, any commits you push to this branch will just require ```git push``
